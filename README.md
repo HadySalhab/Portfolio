@@ -71,7 +71,7 @@ NewsFeed, provides live top and breaking headlines for a country, specific categ
 - Pagination and endless scrolling using custom pagination.
 - Handle network status and network failures
 - ConstraintLayout(guidelines, barriers... etc)
-- ViewPager2
+- ViewPager 2
 - Material design.
 - Custom Navigation Controller for Multiple navigation graph
 - Bottom Navigation Bar
