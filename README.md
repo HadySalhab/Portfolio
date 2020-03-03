@@ -1,28 +1,5 @@
 # Portfolio
 
-# [Note-Reminder-MVVM-Koin](https://github.com/HadySalhab/Note-Reminder-MVVM)
-
-## Project Overview
-
-Daily Note is an application that allows the user to create notes with images and reminders in a simple but aesthetically pleasing interface.
-The application follows the most recent design guidelines of the Google operating system.
-
-The purpose of creating this application was to show how to implement latest features and functions recommended by Google (Jetpack Libraries) using kotlin.
-
-## Language: [Kotlin](https://kotlinlang.org/)
-
-- Material Design Interface: Basic add, modify, delete actions
-- Filtering notes based on favorite flag
-- Image attachement
-- Note list
-- Reminderlist
-- Date selection
-- Time selection
-
-[View Source Code](https://github.com/HadySalhab/Note-Reminder-MVVM)
-
-![main](https://user-images.githubusercontent.com/51857962/75746387-41350180-5d6e-11ea-92bf-6a52fe3a7f28.png) ![main-favorite](https://user-images.githubusercontent.com/51857962/75746404-4a25d300-5d6e-11ea-8a34-ce8a77e75582.png)![reminder-page](https://user-images.githubusercontent.com/51857962/75746416-53af3b00-5d6e-11ea-9940-63885f352594.png)
-
 # [Movies-MVVM-Koin](https://github.com/HadySalhab/Movies-MVVM)
 
 ## Project Overview
@@ -103,3 +80,26 @@ NewsFeed, provides live top and breaking headlines for a country, specific categ
 [View Source Code](https://github.com/HadySalhab/NewsFeed-MVI-Dagger)
 
 ![Headlines](https://user-images.githubusercontent.com/51857962/75750498-721a3400-5d78-11ea-9535-608cbb8f64b5.png) ![Sources](https://user-images.githubusercontent.com/51857962/75750506-75152480-5d78-11ea-9d6e-0f1e322a7d99.png)
+
+# [Note-Reminder-MVVM-Koin](https://github.com/HadySalhab/Note-Reminder-MVVM)
+
+## Project Overview
+
+Daily Note is an application that allows the user to create notes with images and reminders in a simple but aesthetically pleasing interface.
+The application follows the most recent design guidelines of the Google operating system.
+
+The purpose of creating this application was to show how to implement latest features and functions recommended by Google (Jetpack Libraries) using kotlin.
+
+## Language: [Kotlin](https://kotlinlang.org/)
+
+- Material Design Interface: Basic add, modify, delete actions
+- Filtering notes based on favorite flag
+- Image attachement
+- Note list
+- Reminderlist
+- Date selection
+- Time selection
+
+[View Source Code](https://github.com/HadySalhab/Note-Reminder-MVVM)
+
+![main](https://user-images.githubusercontent.com/51857962/75746387-41350180-5d6e-11ea-92bf-6a52fe3a7f28.png) ![main-favorite](https://user-images.githubusercontent.com/51857962/75746404-4a25d300-5d6e-11ea-8a34-ce8a77e75582.png)![reminder-page](https://user-images.githubusercontent.com/51857962/75746416-53af3b00-5d6e-11ea-9940-63885f352594.png)
