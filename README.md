@@ -1,6 +1,6 @@
 # Portfolio
 
-# [Note-Reminder-Koin-MVVM](https://github.com/HadySalhab/Note-Reminder-MVVM)
+# [Note-Reminder-MVVM-Koin](https://github.com/HadySalhab/Note-Reminder-MVVM)
 
 ## Project Overview
 
