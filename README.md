@@ -58,8 +58,6 @@ The application follows google guideline on Media app architecture.
 
 NewsFeed, provides live top and breaking headlines for a country, specific category in a country, single source, or multiple sources, by interacting to [News API](https://newsapi.org/)
 
- <p align="left"><img src="https://img.shields.io/badge/status-incomplete-orange.svg" /></p>
-
 ## Language: [Kotlin](https://kotlinlang.org/)
 
 - MVI with Android Architecture Components(Room, LiveData, ViewModel)
@@ -79,7 +77,7 @@ NewsFeed, provides live top and breaking headlines for a country, specific categ
 
 [View Source Code](https://github.com/HadySalhab/NewsFeed-MVI-Dagger)
 
-![Headlines](https://user-images.githubusercontent.com/51857962/75750498-721a3400-5d78-11ea-9535-608cbb8f64b5.png) ![Sources](https://user-images.githubusercontent.com/51857962/75750506-75152480-5d78-11ea-9d6e-0f1e322a7d99.png)
+![Headlines](https://user-images.githubusercontent.com/51857962/77375276-1e23cd80-6dc1-11ea-9e38-69da7f95a66e.png) ![headline_dialog](https://user-images.githubusercontent.com/51857962/77375281-211ebe00-6dc1-11ea-9e73-d1a97f362fda.png) ![Sources](https://user-images.githubusercontent.com/51857962/77375284-25e37200-6dc1-11ea-965c-1915ad1d78b4.png)
 
 # [Note-Reminder-MVVM-Koin](https://github.com/HadySalhab/Note-Reminder-MVVM)
 
